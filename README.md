@@ -42,9 +42,9 @@
 *   🌐 Развертывание сайтов на WordPress/Tilda, базовое администрирование серверов Linux.
 
 💬 **Связаться со мной:**
-*   **Kwork:** [Мой профиль на Kwork](https://kwork.ru/user/SofyaBerestneva) *(замени эту ссылку на свою реальную, когда зарегистрируешься)*
-*   **Telegram:** [@SofyaBerestneva](https://t.me/SofyaBerestneva) *(или укажи свой настоящий ник)*
-*   **Email:** `sofya.berestneva.work@mail.ru` *(или твой рабочий email)*
+*   **Kwork:** [Мой профиль на Kwork](https://kwork.ru/user/SofyaBerestneva)
+*   **Telegram:** [@SofyaBerestneva](https://t.me/SofyaBerestneva)
+*   **Email:** `sofya.berestneva.work@mail.ru`
 
 ---
 
